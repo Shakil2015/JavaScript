@@ -6,9 +6,9 @@ function Person(first, last, age, eye) {
     this.eyeColor = eye;
   }
   
-  // Create two Person objects
+  // Create two Person objectshhhhhhhhh
   var myFather = new Person("John", "Doe", 50, "blue");
-  var myMother = new Person("Sally",    "Rally", 48, "green");
+  var myMother = new Person("Sally", "Rally", 48, "green");
   
   // Display age
   document.getElementById("demo").innerHTML =
